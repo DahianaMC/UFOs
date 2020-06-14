@@ -21,6 +21,6 @@
 - The index.html was build to show the FilterSearch with the five total filters, and the result table after the filter was applied. 
 
 ## HTML Image:
-![The-Truth-Is-Out-There.PNG]https://github.com/DahianaMC/UFOs/blob/master/The-Truth-Is-Out-There.PNG
+![The-Truth-Is-Out-There.PNG](https://github.com/DahianaMC/UFOs/blob/master/The-Truth-Is-Out-There.PNG)
 
 
