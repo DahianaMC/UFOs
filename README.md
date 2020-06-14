@@ -23,4 +23,8 @@
 ## HTML Image:
 ![The-Truth-Is-Out-There.PNG](https://github.com/DahianaMC/UFOs/blob/master/The-Truth-Is-Out-There.PNG)
 
+## Recommendations
+- We added some enhances like the clearFilter bottom to clear the inputs from the Filter Search, also we added the trim() method to remove blank spaces in the inputs, and added the toLowerCase() method to force the inputs to be in lowercase letters. 
+- We could add another filter with duration to show for example events longer than 10 minutes, or also we can add the description by filtering by key words, like "bright".
+- We could add another style for the table and add the placeholder as an example to know the correct way to input the data.
 
