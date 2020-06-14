@@ -10,11 +10,12 @@
   - State
   - Country
   - Shape
-- We created a function that saves the element, value, and the id of the filter that was changed.  We added the trim() method to remove blank spaces in case are added by typo errors, and also added the toLowerCase method to force all the input values to be in lowercase, since the data is saved all in lowercase letters, then we will able to filter the data if someone input the values for example for state in capital letters.
+- We created a function that saves the element, value, and the id of the filter that was changed.  We added the trim() method to remove blank spaces in case are added by typo errors, and also added the toLowerCase method to force all the input values to be in lowercase since the data is saved all in lowercase letters, then we will able to filter the data if someone input the values for example for state in capital letters.
 - We created an if-else statement to add filter data from input, or clear the filter if no input data exists.
-Additionally, create a function named filterTable(); that will perform the following actions:
-Set the filtered data to the table.
-Loop through all of the filters and keep any data that matches the filter values.
-Rebuild the table by calling the buildTable(); function created earlier.
-Finally, using d3.selectAll();, attach an event listener to pick up changes that are made to each filter.
-Below are links to starter code to help you build the additional filters. One of the files contains pseudocode, while the other is a blank slate. You can work with either file, though one provides an additional challenge.
+- Additionally, create a function named filterTable(); that will perform the following actions:
+  - Set the filtered data to the table.
+  - Loop through all of the filters and keep any data that matches the filter values.
+  - Rebuild the table by calling the buildTable(); function created earlier.
+- We created a function clearFilters() and add a bottom to click to clear the inputs to the Filter Search.
+- Finally, using d3.selectAll();, attach an event listener to pick up changes that are made to each filter.
+
